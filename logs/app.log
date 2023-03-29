@@ -1,0 +1,4 @@
+2023-03-27 06:55:47,733 INFO com.example.wordleapplication.WordleApplication [main] Starting WordleApplication using Java 1.8.0_362 on Preet-Bista-eSewa with PID 32932 (C:\Users\Lenovo\Desktop\WordleApplication\target\classes started by Lenovo in C:\Users\Lenovo\Desktop\WordleApplication)
+2023-03-27 06:55:47,738 DEBUG com.example.wordleapplication.WordleApplication [main] Running with Spring Boot v2.7.10, Spring v5.3.26
+2023-03-27 06:55:47,740 INFO com.example.wordleapplication.WordleApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-03-27 06:55:50,329 INFO com.example.wordleapplication.WordleApplication [main] Started WordleApplication in 3.348 seconds (JVM running for 5.501)
